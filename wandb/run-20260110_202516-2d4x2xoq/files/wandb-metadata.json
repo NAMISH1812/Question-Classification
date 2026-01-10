@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2026-01-10T14:55:16.849319Z",
+  "program":  "C:\\Users\\souja\\Downloads\\dataset\\train_and_evaluate_ablation.py",
+  "codePath":  "train_and_evaluate_ablation.py",
+  "codePathLocal":  "train_and_evaluate_ablation.py",
+  "email":  "garimellanamish@gmail.com",
+  "root":  "C:\\Users\\souja\\Downloads\\dataset",
+  "host":  "Namish",
+  "executable":  "C:\\Users\\souja\\Downloads\\dataset\\venv\\Scripts\\python.exe",
+  "cpu_count":  12,
+  "cpu_count_logical":  14,
+  "disk":  {
+    "/":  {
+      "total":  "1021821579264",
+      "used":  "253534662656"
+    }
+  },
+  "memory":  {
+    "total":  "16573128704"
+  },
+  "writerId":  "gxweikf06ykzqvnrdfy57ttzaklq08ck"
+}

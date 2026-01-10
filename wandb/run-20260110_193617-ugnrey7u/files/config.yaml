@@ -1,0 +1,41 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            tkzwhod0sfnru28kf96wqkf0kx5koehk:
+                codePath: train_and_evaluate.py
+                codePathLocal: train_and_evaluate.py
+                cpu_count: 12
+                cpu_count_logical: 14
+                disk:
+                    /:
+                        total: "1021821579264"
+                        used: "252783603712"
+                email: garimellanamish@gmail.com
+                executable: C:\Users\souja\Downloads\dataset\venv\Scripts\python.exe
+                host: Namish
+                memory:
+                    total: "16573128704"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\souja\Downloads\dataset\train_and_evaluate.py
+                python: CPython 3.12.4
+                root: C:\Users\souja\Downloads\dataset
+                startedAt: "2026-01-10T14:06:17.081414Z"
+                writerId: tkzwhod0sfnru28kf96wqkf0kx5koehk
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 13
+            "4": 3.12.4
+            "5": 0.23.1
+            "8":
+                - 3
+            "12": 0.23.1
+            "13": windows-amd64

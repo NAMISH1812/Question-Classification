@@ -1,0 +1,16 @@
+Accuracy: 0.7398
+                        precision    recall  f1-score   support
+
+               Algebra       0.74      0.74      0.74      1187
+Counting & Probability       0.73      0.75      0.74       474
+              Geometry       0.70      0.84      0.76       479
+  Intermediate Algebra       0.79      0.80      0.79       903
+         Number Theory       0.74      0.82      0.77       540
+            Prealgebra       0.60      0.54      0.57       871
+           Precalculus       0.94      0.80      0.87       546
+
+              accuracy                           0.74      5000
+             macro avg       0.75      0.75      0.75      5000
+          weighted avg       0.74      0.74      0.74      5000
+
+✅ trigram_tfidf → Accuracy: 0.7398

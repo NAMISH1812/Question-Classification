@@ -1,0 +1,17 @@
+🔠 Applying lemmatization with spaCy...
+Accuracy: 0.7338
+                        precision    recall  f1-score   support
+
+               Algebra       0.77      0.70      0.74      1187
+Counting & Probability       0.69      0.76      0.72       474
+              Geometry       0.66      0.84      0.74       479
+  Intermediate Algebra       0.78      0.81      0.79       903
+         Number Theory       0.72      0.84      0.77       540
+            Prealgebra       0.60      0.52      0.56       871
+           Precalculus       0.93      0.81      0.86       546
+
+              accuracy                           0.73      5000
+             macro avg       0.74      0.75      0.74      5000
+          weighted avg       0.74      0.73      0.73      5000
+
+✅ lemmatization_added → Accuracy: 0.7338

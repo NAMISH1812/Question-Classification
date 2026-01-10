@@ -1,0 +1,16 @@
+Accuracy: 0.7254
+                        precision    recall  f1-score   support
+
+               Algebra       0.76      0.70      0.72      1187
+Counting & Probability       0.69      0.76      0.72       474
+              Geometry       0.66      0.83      0.74       479
+  Intermediate Algebra       0.77      0.80      0.78       903
+         Number Theory       0.73      0.83      0.78       540
+            Prealgebra       0.58      0.50      0.54       871
+           Precalculus       0.92      0.81      0.86       546
+
+              accuracy                           0.73      5000
+             macro avg       0.73      0.75      0.73      5000
+          weighted avg       0.73      0.73      0.72      5000
+
+✅ baseline_logreg → Accuracy: 0.7254

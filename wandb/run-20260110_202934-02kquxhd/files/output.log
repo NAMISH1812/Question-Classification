@@ -1,0 +1,16 @@
+Accuracy: 0.7402
+                        precision    recall  f1-score   support
+
+               Algebra       0.75      0.73      0.74      1187
+Counting & Probability       0.70      0.75      0.73       474
+              Geometry       0.70      0.85      0.77       479
+  Intermediate Algebra       0.78      0.80      0.79       903
+         Number Theory       0.73      0.80      0.76       540
+            Prealgebra       0.62      0.55      0.58       871
+           Precalculus       0.94      0.81      0.87       546
+
+              accuracy                           0.74      5000
+             macro avg       0.75      0.76      0.75      5000
+          weighted avg       0.74      0.74      0.74      5000
+
+✅ svm_model → Accuracy: 0.7402
