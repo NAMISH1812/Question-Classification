@@ -4,12 +4,7 @@ import pandas as pd
 from tqdm import tqdm
 
 def load_dataset(base_path: str):
-    """
-    Loads all JSON question files from the dataset folder structure:
-    MATH/train/<topic>/*.json
-    MATH/test/<topic>/*.json
-    and returns a single DataFrame with columns: ['question_text', 'label'].
-    """
+
     data = []
 
     for subtopic in os.listdir(base_path):
@@ -34,3 +29,4 @@ def load_dataset(base_path: str):
                 continue
 
     return pd.DataFrame(data)
+
